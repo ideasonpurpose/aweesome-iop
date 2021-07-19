@@ -1,6 +1,6 @@
 # Awesome IOP
 
-A sort-of awesome list about tools, best practices and technical stuff at Ideas On Purpose
+A sort-of [awesome list](https://github.com/sindresorhus/awesome) about tools, best practices and technical stuff at [Ideas On Purpose](https://www.ideasonpurpose.com).
 
 ## Apps and Platforms
 
@@ -30,7 +30,7 @@ A sort-of awesome list about tools, best practices and technical stuff at Ideas 
 - [MDN JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 - [Can I Use](https://caniuse.com/) - Browser support tables for modern web technologies
 - [node.js](https://nodejs.org/) - JavaScript everywhere
-- [PHP]() - Serverside language, the WordPress backend uses this
+- [PHP](https://www.php.net/manual/en/langref.php) - Serverside language, the WordPress backend uses this
 - [Markdown Cheatsheet and tutorial](https://commonmark.org/help/) - Based on the CommonMark specification
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - From GitHub
 
@@ -42,8 +42,8 @@ A sort-of awesome list about tools, best practices and technical stuff at Ideas 
 
 ## Good Ideas
 
-- [12 Factor App]() - Some very good ideas about reproducibility, disposability and development environments
-- [Zen of Python]() - Even though we don't use Python, these are good know
+- [12 Factor App](https://12factor.net/) - Some very good ideas about reproducibility, disposability and development environments
+- [Zen of Python](http://www.thezenofpython.com/) - Even though we don't use Python, these are good know
 
 ## Quotes & Misc.
 
