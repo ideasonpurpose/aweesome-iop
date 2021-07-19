@@ -6,8 +6,8 @@ A sort-of [awesome list](https://github.com/sindresorhus/awesome) about tools, b
 
 - [WordPress](https://wordpress.org/)
   - [Make WordPress Core](https://make.wordpress.org/core/) - Development blog (firehose) for WordPress development
-  - [WordPress on GitHub]() - source code mirror
-- [Eleventy](https://www.11ty.dev/) - Static site generator framework
+  - [WordPress on GitHub](https://github.com/WordPress/WordPress) - source code mirror
+- [Eleventy](https://www.11ty.dev/) - Static site generator (not a framework)
 
 ## Development Tools
 
