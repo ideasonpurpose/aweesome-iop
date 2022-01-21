@@ -31,6 +31,7 @@ A sort-of [awesome list](https://github.com/sindresorhus/awesome) about tools, b
 - [Can I Use](https://caniuse.com/) - Browser support tables for modern web technologies
 - [node.js](https://nodejs.org/) - JavaScript everywhere
 - [PHP](https://www.php.net/manual/en/langref.php) - Serverside language, the WordPress backend uses this
+- [Nunjucks](https://mozilla.github.io/nunjucks/) - Templating language for JavaScript, 11ty uses this
 - [Markdown Cheatsheet and tutorial](https://commonmark.org/help/) - Based on the CommonMark specification
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - From GitHub
 
